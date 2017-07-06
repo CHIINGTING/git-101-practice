@@ -2,9 +2,9 @@
 
 ## 基本資料
 - 姓名：黃競霆
-- 暱稱：
+- 暱稱：Gin
 - 性別：
-- Email：
+- Email：ginting@g.ncu.edu.tw
 - Slack ID：Gin
 
 ## 技能評級
@@ -22,7 +22,7 @@
 - 2016 HelloJS 完訓...
 
 ## 學歷
-- ＯＯ大學ＡＡ系
+- 中央大學資工系
 - ＸＸ大學ＢＢ所
 
 ## 分組資料
@@ -30,15 +30,15 @@
 
 ### 小組成員1(我)
 - 姓名：ＸＸＸ
-- Slack ID：abc123
+- Slack ID：sk97616
 - 專長：
 
 ### 小組成員2
 - 姓名：ＸＸＸ
-- Slack ID：abc123
+- Slack ID：onlyfly34
 - 專長：
 
 ### 小組成員3
 - 姓名：ＸＸＸ
-- Slack ID：abc123
+- Slack ID：jia88071
 - 專長：
